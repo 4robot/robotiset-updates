@@ -1,0 +1,18 @@
+{
+  "releases": [
+    {
+      "version": "1.1.0",
+      "channel": "studio",
+      "platform": "win32",
+      "arch": "x64",
+      "notes": "ROBOTISET 1.1.0: Studio and Starter desktop editions, Gumroad activation, offline access after activation, and update notices. This is the initial version baseline for this feed."
+    },
+    {
+      "version": "1.1.0",
+      "channel": "starter",
+      "platform": "win32",
+      "arch": "x64",
+      "notes": "ROBOTISET 1.1.0: Studio and Starter desktop editions, Gumroad activation, offline access after activation, and update notices. This is the initial version baseline for this feed."
+    }
+  ]
+}
